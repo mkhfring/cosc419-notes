@@ -1,5 +1,4 @@
-notebook
-micrograd
-numpy
+torch
+scikit-learn
 matplotlib
-
+notebook
